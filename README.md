@@ -1,3 +1,4 @@
+# Marine Wave Data Visualization
 A high-resolution procedural deep-sea / jellyfish animation driven by real marine wave data. It renders an atmospheric underwater scene (marine snow, bioluminescence, kelp shadows, hydrothermal vents) and a luminous jellyfish whose motion and morphology respond to wave parameters in a CSV file.
 
 ## Features
